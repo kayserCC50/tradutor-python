@@ -1,4 +1,4 @@
-print("swin,swin,swin, water falling of your skin")
+print("swiw,swiw,swiw, water falling of your skin")
 portugues = "nadar, nadar, nadar, água caindo da sua pele"
 espanhol = "nadar, nadar, nadar, agua cayendo de tu piel"
 frances = "nager, nager, nager, eau tombant de votre peau"
