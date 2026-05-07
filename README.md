@@ -3,7 +3,7 @@ Tradutor V1
 
 Este é um programa simples feito em Python que traduz a frase:
 
-"swin, swin, swin, water falling of your skin"
+"swim, swim, swim, water falling of your skin"
 
 Funcionalidades
 - Tradução para português 🇧🇷
