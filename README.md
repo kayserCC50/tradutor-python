@@ -1,20 +1,20 @@
 
-# 🎮 Tradutor em Python
+Tradutor
 
 Este é um programa simples feito em Python que traduz a frase:
 
 "swin, swin, swin, water falling of your skin"
 
-## 🚀 Funcionalidades
+Funcionalidades
 - Tradução para português 🇧🇷
 - Tradução para espanhol 🇪🇸
 - Tradução para francês 🇫🇷
 - Loop até o usuário sair
 
-## 💻 Tecnologias usadas
+Linguagem 
 - Python
 
-## 📚 O que eu aprendi
+Conceitos 
 - print()
 - input()
 - variáveis
