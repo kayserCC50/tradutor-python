@@ -1,21 +1,7 @@
 print("swin,swin,swin, water falling of your skin")
-traducao = input("Traduzir para qual idioma? (portugues, espanhol, frances): ")
-frase = "swin,swin,swin, water falling of your skin"
-
 portugues = "nadar, nadar, nadar, água caindo da sua pele"
 espanhol = "nadar, nadar, nadar, agua cayendo de tu piel"
 frances = "nager, nager, nager, eau tombant de votre peau"
-
-if traducao == "portugues":
-    print(portugues)
-
-elif traducao == "espanhol":
-    print(espanhol)
-elif traducao == "frances":
-    print(frances)
-
-else:
-    print("idioma não reconhecido")
 
 while True:
         traducao = input("Traduzir para qual idioma? ( portugues, espanhol, frances) ou 'sair' : ")
@@ -31,5 +17,4 @@ while True:
 
         else:
              print("Idioma não reconhecido")
-             
 
