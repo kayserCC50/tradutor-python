@@ -1,5 +1,5 @@
 
-Tradutor
+Tradutor V1
 
 Este é um programa simples feito em Python que traduz a frase:
 
