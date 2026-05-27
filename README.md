@@ -1,3 +1,3 @@
 
-Traduz um frase para outra linguagem
+Traduz uma frase para outra linguagem
 
