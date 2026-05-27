@@ -1,2 +1,3 @@
 
-Tradutor V1
+Traduz um frase para outra linguagem
+
